@@ -1,0 +1,127 @@
+h1{
+  display:none;
+}
+.section-products .container{
+	background-color:#efefef !important;
+}
+/*  */
+.fa-heart{
+  color:#080 !important;
+}
+/* */
+.store-notify{
+display:none !important;
+}
+
+.product-box{
+    width: 225px !important;
+    height: 305px!important;
+    padding: 10px !important;
+    border-radius: 10px !important;
+    border: 2px solid #0000004a!important;
+  	margin:20px 0 !important;
+  	text-align:center;
+	  transition: all .5s ease;
+}
+.product-box:hover{
+	background-color:#fff;
+}
+
+.product-title{
+    font-size: 11px !important;
+    padding: 10px 0 !important;
+    margin:10px 0 !important;
+    border: 2px solid #efefef;
+    text-align: center !important;
+    border-radius: 10px;
+}
+
+.product-subtitle{
+    text-align: center !important;
+    padding:  10px 0 !important;
+    border-radius: 10px;
+    border: 2px solid #efefef !important;
+    color: #000;
+}
+.product-footer{
+   border: 2px solid #0000000d;
+    border-radius: 8px;
+}
+.salla-theme_4 .product-footer .product-add {
+    border-radius: 0;
+    width: 45px !important;
+    height: 45px !important;
+    background-color:black !important;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+}
+.salla-theme_4 .product-footer .product-add:hover{
+    background-color: red !important;
+}
+.products-grid.eq-height>[class^=col-] {
+    width: 250px !important;
+}
+
+/* Start Footer */
+
+.footer-title {
+	 display:inline-block;
+  	padding:10px 0;
+    color: #a06441;;
+  	border-bottom:2px solid #a06441;
+}
+
+.social__item {
+    display: inline-block;
+    margin-left: 0.25rem;
+    padding: 20px 0px !important;
+}
+
+.social__item {
+    display: inline-block;
+    margin-left: 1.75rem;
+    padding: 20px 3px;
+    text-align: center;
+    color: #fff;
+}
+
+.sicon-iphone{
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 6px;
+	  background-color: #555;
+    color: white;
+	  transition: all .4s ease;
+}
+.sicon-iphone:hover{
+	   background-color: #a06441;
+		color:#fff;
+}
+.sicon-whatsapp2{
+    padding-right: 15px!important;
+    padding-left: 15px!important;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+    color: white!important;
+    border-radius: 6px;
+		  background-color: #555;
+    color: white;
+	  transition: all .4s ease;
+}
+.sicon-whatsapp2:hover{
+	   background-color: #a06441;
+		color:#fff;
+}
+
+
+.store-contact a {
+    color: #000;
+    font-size: 25px;
+    margin: 10px 2px;
+    font-weight: bold;
+}
+
+/* End Fo
